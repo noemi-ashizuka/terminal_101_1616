@@ -1,0 +1,27 @@
+pwd
+-> present working directory (where you are)
+ls OR ll 
+-> shows the content of the current folder
+cd folder_name (press tab to autocomplete)
+-> moves to that folder
+cd ..
+-> moves back one level
+mkdir new_folder_name
+-> creates a new directory
+touch new_filename
+-> creates a new file 
+rm filename
+-> removes a file
+rm -rf folder_name
+-> removes a directory
+mv file folder
+-> moves the file
+mv filename new_filename
+-> change the name of the file
+code .
+-> open current directory in vs code
+open . (mac)
+explorer.exe . (windows)
+-> opens file in file explorer
+cat filename
+-> shows contetn of a file in the terminal
